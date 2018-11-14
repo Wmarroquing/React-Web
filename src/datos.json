@@ -1,0 +1,28 @@
+{
+    "datos": [
+        {
+            "title": "Tarea 1",
+            "encargado": "Walter",
+            "descripcion": "lorem ipsum",
+            "prioridad": "baja"
+        },
+        {
+            "title": "Tarea 2",
+            "encargado": "Jose",
+            "descripcion": "lorem ipsum",
+            "prioridad": "media"
+        },
+        {
+            "title": "Tarea 3",
+            "encargado": "Ana",
+            "descripcion": "lorem ipsum",
+            "prioridad": "alta"
+        },
+        {
+            "title": "Tarea 4",
+            "encargado": "Maria",
+            "descripcion": "lorem ipsum",
+            "prioridad": "media"
+        }
+    ]
+}
